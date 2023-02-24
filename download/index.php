@@ -1,1 +1,143 @@
-text
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="shortcut icon" type="image" href="assets/imgs/logo.png" >
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Start your development with LeadMark landing page.">
+    <meta name="author" content="Devcrud">
+    <title>Gospel centered life </title>
+
+    <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
+
+	<link rel="stylesheet" href="assets/css/leadmark.css">
+</head>
+<body id="download">
+
+    <nav class="navbar custom-navbar navbar-expand-md navbar-light fixed-top" data-spy="affix" data-offset-top="10">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img src="assets/imgs/logo.svg" alt="">
+            </a>
+            <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto">                     
+                    <li class="nav-item">
+                                        <li class="nav-item">
+                        <a class="nav-link" href="#about">Hello
+						/مرحبا</a>
+                    <!-- </li>    
+						<a class="nav-link" href="#service">Resources
+						/الموارد</a>
+                    </li> -->
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">Contact us
+						/اتصلوا بنا</a>
+                    </li>
+                
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <header class="header">
+        <div class="overlay">
+            <h1 class="subtitle">Downloads</h1>
+        </div>  
+    </header>
+
+    <section class="section" id="downloads">
+        <div class="container">
+            <div class="row justify-content-between">
+                <div class="col-md-6 pr-md-5 mb-4 mb-md-0">
+                    <h6 class="section-title mb-0">GCL4MENA en FRANÇAIS</h6>
+                    <a href=https://gcl4mena.github.io/GCL4MENA/download/GCL4MENA en Français.pdf>GCL4MENA en Français.pdf</a>
+                </div>
+                <div class="col-md-6 pl-md-5">
+                    <h6 class="section-title mb-0">GCL4MENA en FRANÇAIS</h6>
+                    <a href=https://gcl4mena.github.io/GCL4MENA/download/GCL4MENA en Français.pdf>GCL4MENA en Français.pdf</a>
+                </div>
+            </div>
+    </section>
+	<section class="section" id="testmonial">
+        <div class="container">
+            <h6 class="section-title text-center mb-0">Contact us</h6>
+            <h6 class="section-subtitle mb-5 text-center">اتصلوا بنا</h6>
+            <div class="row">
+                <div class="col-md-4 my-3 my-md-0">
+                    <div class="card">
+                        <div class="card-body">
+						<a href="https://www.youtube.com/channel/UCBsQ6B6cvTc8tZln-4kwyXw" target="_blank">
+                            <div class="media align-items-center mb-3">
+                                <img class="mr-3" src="assets/imgs/avatar.jpg" alt="">
+                                <div class="media-body">
+								</a>
+                                    <h6 class="mt-1 mb-0">Youtube</h6>    
+                                </div>
+                            </div>
+                            <p class="mb-0"></p>
+                        </div>
+                    </div>
+                </div>
+				  <div class="col-md-4 my-3 my-md-0">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="media align-items-center mb-3">
+                                <img class="mr-3" src="assets/imgs/avatar-2.jpg" alt="">
+                                <div class="media-body">
+								</a>
+								<p class="mb-0 small">GCL4MENA@gmail.com 
+</a>        
+                                </div>
+                            </div>
+                            <p class="mb-0"></p>
+                        </div>
+                    </div>
+                  </div>
+                <div class="col-md-4 my-3 my-md-0">
+                    <div class="card">
+                        <div class="card-body">
+						<a href="https://www.facebook.com/groups/735698231230743" target="_blank">
+                            <div class="media align-items-center mb-3">
+                                <img class="mr-3" src="assets/imgs/avatar-1.jpg" alt="">
+                                <div class="media-body">
+								</a>
+                                    <h6 class="mt-1 mb-0">Facebook</h6>    
+                                </div>
+                            </div>
+                            <p class="mb-0"></p>
+                        </div>
+                    </div>
+                </div>
+              
+            </div>
+        </div>
+    </section>
+    <section id="contact" class="section has-img-bg pb-0">
+      <Center> 
+	   <div class="container">
+            <div class="row align-items-center">
+                    <form>
+                        <h4 class="mb-4">حياة مركزها الإنجيل</h4>
+                        <div class="form-row">
+
+            <footer class="mt-5 py-4 border-top border-secondary">
+                <p class="mb-0 small">&copy; <script>document.write(new Date().getFullYear())</script>, Created By Gospel centred life GROUP </p>							
+            </footer>
+            <!-- End of Page Footer -->  
+       	   </div>
+      </Center>
+	</section>
+	
+	<!-- core  -->
+    <script src="assets/vendors/jquery/jquery-3.4.1.js"></script>
+    <script src="assets/vendors/bootstrap/bootstrap.bundle.js"></script>
+    <!-- bootstrap 3 affix -->
+	<script src="assets/vendors/bootstrap/bootstrap.affix.js"></script>
+    <!-- Isotope -->
+    <script src="assets/vendors/isotope/isotope.pkgd.js"></script>
+    <!-- LeadMark js -->
+    <script src="assets/js/leadmark.js"></script>
+</body>
+</html>
